@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiTempatWisata</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur culpa incidunt possimus praesentium quo? Deserunt earum laudantium nihil perspiciatis quis, vel? Debitis, dolorum eos facere hic in officia similique vel!</string>
+</resources>
